@@ -1,8 +1,3 @@
-*
- * File: 102-print_comb5.c
- * main - print a num pair from 00-99 but no repeats (00 01, 00 02, 00 03,...)
- */
-
 #include <stdio.h>
 
 /**
