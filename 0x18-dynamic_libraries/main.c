@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _SHARED_LIB_H_
+#define _SHARED_LIB_H_
 
 
 int _putchar(char c);
